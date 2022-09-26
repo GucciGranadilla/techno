@@ -11,7 +11,7 @@
     import { RouterView, RouterLink } from "vue-router";
   
   const getMovie = async () => {
-    await new Promise((resolve) => setTimeout(resolve, 800));
+    await new Promise((resolve) => setTimeout(resolve, 1200));
   
   }
   

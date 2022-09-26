@@ -68,7 +68,7 @@ We choose to go to the moon.</p>
 
 <script setup>
 const getMovie = async () => {
-  await new Promise((resolve) => setTimeout(resolve, 800));
+  await new Promise((resolve) => setTimeout(resolve, 1200));
 
 }
 

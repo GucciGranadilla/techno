@@ -41,7 +41,7 @@ We choose to go to the moon. We choose to go to the moon in this decade and do t
   import { RouterView, RouterLink } from "vue-router";
 
 const getMovie = async () => {
-  await new Promise((resolve) => setTimeout(resolve, 800));
+  await new Promise((resolve) => setTimeout(resolve, 1200));
 
 }
 
