@@ -1731,3 +1731,8 @@ footer p {
     opacity: 0
   }
 }
+
+.menu-radio {
+  display: flex;
+  flex-direction: row;
+}
