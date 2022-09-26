@@ -1709,7 +1709,7 @@ footer p {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  margin: 0 auto;
+  margin: 0 1rem;
   transition: all 0.3s;
   background-color: #FF0055;
 }
