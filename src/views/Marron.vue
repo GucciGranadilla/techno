@@ -42,10 +42,10 @@
 <script setup>
     import { RouterView, RouterLink } from "vue-router";
   
-  const getMovie = async () => {
-    await new Promise((resolve) => setTimeout(resolve, 1200));
+  // const getMovie = async () => {
+  //   await new Promise((resolve) => setTimeout(resolve, 1200));
   
-  }
+  // }
   
-  await getMovie();
+  // await getMovie();
     </script>
