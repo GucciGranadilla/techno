@@ -947,7 +947,7 @@ footer p {
   background-attachment: fixed;
 }
 
-.carousel__slide {
+.carousel__slide:nth-child(1) {
   scroll-snap-stop: auto;
   flex-shrink: 0;
   margin: 0 20px 0 0;
