@@ -633,7 +633,7 @@ footer p {
   line-height: 1;
 }
 
-.hero-img-2:hover {
+.hero-img-2:focus {
   background: url('https://i1.sndcdn.com/visuals-MpS40DgKMnxQJRdL-NNgx9w-t1240x260.jpg');
   transition: .3s ease;
   filter: grayscale(100%);
