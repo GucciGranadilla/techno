@@ -1,13 +1,13 @@
 import { createRouter, createWebHistory } from "vue-router";
 
 const routes = [
-    {path: '/', name: 'home', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Home.vue')},
-        {path: '/about', name: 'about', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/About.vue')},
-        {path: '/podcasts', name: 'podcasts', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Podcasts.vue')},
-        {path: '/quelza', name: 'quelza', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Quelza.vue')},
-        {path: '/live', name: 'live', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Live.vue')},
-        {path: '/vil', name: 'vil', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Vil.vue')},
-        {path: '/setoacmass', name: 'setoac', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Setoac.vue')},
+    {path: '/', name: 'home', meta: { enterClass: 'animate__animated animate__fadeInUp', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Home.vue')},
+        {path: '/about', name: 'about', meta: { enterClass: 'animate__animated animate__fadeInUp', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/About.vue')},
+        {path: '/podcasts', name: 'podcasts', meta: { enterClass: 'animate__animated animate__fadeInUp', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Podcasts.vue')},
+        {path: '/quelza', name: 'quelza', meta: { enterClass: 'animate__animated animate__fadeInUp', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Quelza.vue')},
+        {path: '/live', name: 'live', meta: { enterClass: 'animate__animated animate__fadeInUp', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Live.vue')},
+        {path: '/vil', name: 'vil', meta: { enterClass: 'animate__animated animate__fadeInUp', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Vil.vue')},
+        {path: '/setoacmass', name: 'setoac', meta: { enterClass: 'animate__animated animate__fadeInUp', leaveClass: 'animate__animated animate__fadeOutDown' }, component: () => import('@/views/Setoac.vue')},
 
     ]
 
