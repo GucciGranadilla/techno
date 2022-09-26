@@ -11,7 +11,7 @@
 </button>
     <a><router-link :to="{name: 'home'}">Home</router-link></a>
     <a><router-link :to="{name: 'podcasts'}">Podcasts</router-link></a>
-    <a class="menu-radio"><router-link :to="{name: 'live'}"><div class="circle"></div>Live</router-link></a>
+    <a class="menu-radio"><div class="circle"></div><router-link :to="{name: 'live'}">Live</router-link></a>
 </div>
 </nav>
 <main class="page">

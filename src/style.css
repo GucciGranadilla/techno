@@ -1731,7 +1731,7 @@ footer p {
   }
 }
 
-.menu-radio a {
+.menu-radio {
   display: flex;
   flex-direction: row;
 }
