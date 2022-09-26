@@ -33,7 +33,7 @@
 <footer>
     <div>
     <a><router-link :to="{name: 'home'}">Home</router-link></a>
-<a><router-link :to="{name: 'about'}">About</router-link></a>
+<a><router-link :to="{name: 'podcasts'}">About</router-link></a>
 </div>
 <div>
 <p>Copyright &copy; Kevin Davis</p>
