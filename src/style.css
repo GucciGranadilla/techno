@@ -1706,13 +1706,13 @@ footer p {
 
 .circle, .circle::before {
   content: " ";
-  margin: 11px;
-  width: 11.5px;
-  height: 11px;
+  margin: 10.5px;
+  width: 11px;
+  height: 10.5px;
   border-radius: 50%;
   margin: 0 auto;
   transition: all 0.3s;
-  background-color: #FF0055;
+  background-color: #747bff;
 }
 
 .circle::before {
