@@ -947,6 +947,76 @@ footer p {
   background-attachment: fixed;
 }
 
+.carousel__slide {
+  scroll-snap-stop: auto;
+  flex-shrink: 0;
+  margin: 0 20px 0 0;
+  position: relative;
+  background: url(https://media.watchthedj.com/thumbnails/6729-b.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel__slide:nth-child(2) {
+  scroll-snap-stop: auto;
+  flex-shrink: 0;
+  margin: 0 20px 0 0;
+  position: relative;
+  background: url(https://geo-media.beatport.com/image_size/590x404/ee6a3d25-1081-43a7-914b-a18302c2d135.jpg);
+  background-repeat: no-repeat;
+  height: 500px!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
+.carousel__slide:nth-child(3) {
+  scroll-snap-stop: auto;
+  flex-shrink: 0;
+  margin: 0 20px 0 0;
+  position: relative;
+  background: url(https://xlr8r.com/wp-content/uploads/2019/06/dvs1_groove-cover4_credit-salar-kheradpejouh.jpg);
+  background-repeat: no-repeat;
+  height: 500px!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
+.carousel__slide:nth-child(4) {
+  scroll-snap-stop: auto;
+  flex-shrink: 0;
+  margin: 0 20px 0 0;
+  position: relative;
+  background: url(https://www.adam-audio.com/blog/wp-content/uploads/resized/2021/12/adam-audio-blog-hoer-berlin-a7x-dj-deck-800x0-c-default.jpg);
+  background-repeat: no-repeat;
+  height: 500px!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
+.carousel__slide:nth-child(5) {
+  scroll-snap-stop: auto;
+  flex-shrink: 0;
+  margin: 0 20px 0 0;
+  position: relative;
+  background: url(https://www.amsterdam-dance-event.nl/uploads/images/events/_1200x630_crop_center-center_none/DaveClarkePresents.jpg);
+  background-repeat: no-repeat;
+  height: 500px!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
 @keyframes animate {
   0% {
     transform: translate( 0, -50%);
