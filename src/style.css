@@ -1712,7 +1712,7 @@ footer p {
   border-radius: 50%;
   margin: 0 auto;
   transition: all 0.3s;
-  background-color: #747bff;
+  background-color: #FF0055;
 }
 
 .circle::before {
@@ -1725,11 +1725,12 @@ footer p {
   50%   {
     transform: scale(2);
     opacity: 0;
-    background-color: #FF0055;
+
   }
   100%   {
     transform: scale(2);
-    opacity: 0
+    opacity: 0;
+    background-color: #747bff;
   }
 }
 
