@@ -1706,7 +1706,8 @@ footer p {
 
 .circle, .circle::before {
   content: " ";
-  margin: 1rem;
+  margin: 8px;
+  padding: 8px;
   width: 8px;
   height: 8px;
   border-radius: 50%;
