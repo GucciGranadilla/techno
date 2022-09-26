@@ -87,14 +87,8 @@ await getMovie();
   export default {
     components: {
       Slider
-    },
-    async setup() {
-    const res = await fetch('')
-    const posts = await res.json()
-    return {
-      posts
     }
   }
-}
+  
   
   </script>
