@@ -1706,9 +1706,9 @@ footer p {
 
 .circle, .circle::before {
   content: " ";
-  margin: 13px;
-  width: 13.5px;
-  height: 13px;
+  margin: 12px;
+  width: 12.5px;
+  height: 12px;
   border-radius: 50%;
   margin: 0 auto;
   transition: all 0.3s;
