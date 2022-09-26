@@ -1724,7 +1724,8 @@ footer p {
 @-webkit-keyframes mymove {
   50%   {
     transform: scale(2);
-    opacity: 0
+    opacity: 0;
+    background-color: #FF0055;
   }
   100%   {
     transform: scale(2);
