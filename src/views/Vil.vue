@@ -1,7 +1,7 @@
 <template>
     <div class="content">
       <section class="hero reveal marron">
-      <div  class="hero-img-pQ mb_parallax_container"  id="mb_parallax_one"></div>
+      <div  class="hero-img-vil mb_parallax_container vil"  id="mb_parallax_one"></div>
       <h1 class="reveal__content">QUELZA</h1>
       <!-- <h1>MARRØN</h1> -->
       <p class="reveal__content">There is no strife, no prejudice, no national conflict in outer space as yet. Its hazards are hostile to us all. Its conquest deserves the best of all mankind, and its opportunity for peaceful cooperation many never come again. But why, some say, the moon? Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?
@@ -17,17 +17,17 @@
         <h2>Who is?</h2>
         <div class="dj-cont-2">
         <div class="dj-wrp">
-        <div class="dj-cont-2-img"></div>
+        <div class="dj-cont-4-img"></div>
         <h3>Hello</h3>
         <p>We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.</p>
         </div>
         <div class="dj-wrp-2">
-        <div class="dj-cont-2-img2"></div>
+        <div class="dj-cont-4-img2"></div>
         <h3>Hello</h3>
         <p>We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.</p>
         </div>
         <div class="dj-wrp">
-        <div class="dj-cont-2-img3"></div>
+        <div class="dj-cont-4-img3"></div>
 
         </div>
     </div>
