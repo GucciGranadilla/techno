@@ -7,6 +7,7 @@ const routes = [
         {path: '/quelza', name: 'quelza', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOut' }, component: () => import('@/views/Quelza.vue')},
         {path: '/live', name: 'live', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOut' }, component: () => import('@/views/Live.vue')},
         {path: '/vil', name: 'vil', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOut' }, component: () => import('@/views/Vil.vue')},
+        {path: '/setoacmass', name: 'setoac', meta: { enterClass: 'animate__animated animate__fadeIn', leaveClass: 'animate__animated animate__fadeOut' }, component: () => import('@/views/Setoac.vue')},
 
     ]
 

@@ -20,10 +20,12 @@
     <h2 class="hero-img-h2">August 2nd</h2>
   </div>
 </router-link>
+<router-link :to="{name: 'setoac'}">
   <div  class="hero-img-4 mb_parallax_container" id="mb_parallax_one">
     <h1 class="hero-img-h1">SETAOC MASS</h1>
     <h2 class="hero-img-h2">March 14th</h2>
   </div>
+</router-link>
   <router-link :to="{name: 'vil'}">
   <div  class="hero-img-5 mb_parallax_container" id="mb_parallax_one">
     <h1 class="hero-img-h1">VIL</h1>
