@@ -516,7 +516,7 @@ footer p {
   margin-top: 12vw;
   margin-left: -2vw;
   margin-bottom: -2vw;
-  background-position: 50% 45%;
+  background-position: 50% 25%;
   background-attachment: fixed;
 }
 
@@ -589,7 +589,7 @@ footer p {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: 50% 20%;
+  background-position: 50% 30%;
   z-index: 10;
   /* filter: grayscale(100%); */
     /* border-radius: 10px; */
