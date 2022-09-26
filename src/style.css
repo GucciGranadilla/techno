@@ -1732,7 +1732,7 @@ footer p {
   }
 }
 
-.menu-radio {
+.menu-radio a {
   display: flex;
   flex-direction: row;
 }
