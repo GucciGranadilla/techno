@@ -8,7 +8,7 @@
     </transition>
   </router-view>
   <section class="hero">
-  <router-link :to="{name: 'podcasts'}">
+  <router-link :to="{name: 'marron'}">
   <div  class="hero-img-2 mb_parallax_container" id="mb_parallax_one">
     <h1 class="hero-img-h1">MARRØN</h1>
     <h2 class="hero-img-h2">September 3rd</h2>
