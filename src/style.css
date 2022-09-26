@@ -1707,7 +1707,6 @@ footer p {
 .circle, .circle::before {
   content: " ";
   margin: 8px;
-  padding: 8px;
   width: 8px;
   height: 8px;
   border-radius: 50%;
@@ -1736,4 +1735,8 @@ footer p {
 .menu-radio {
   display: flex;
   flex-direction: row;
+}
+
+.menu-radio a{
+ margin-left: 20px;
 }
