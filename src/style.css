@@ -1690,7 +1690,7 @@ footer p {
 
 
 .carousel__slide:nth-child(1), .carousel__slide:nth-child(2), .carousel__slide:nth-child(3), .carousel__slide:nth-child(4), .carousel__slide:nth-child(5) {
-  margin: 0 0 0 0;
+  margin: 0 10px 0 0;
 }
 
 
