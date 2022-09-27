@@ -1415,6 +1415,7 @@ footer p {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-attachment: scroll;
   margin-bottom: 1em;
   transition: .3s ease;
   /* border-radius: 10px; */
