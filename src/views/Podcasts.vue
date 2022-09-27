@@ -11,7 +11,7 @@
   <router-link :to="{name: 'marron'}">
   <div  class="hero-img-2 mb_parallax_container" id="mb_parallax_one">
     <h1 class="hero-img-h1"  data-aos="fade-up" data-aos-duration="700" data-aos-delay="1200" data-aos-offset="500">MARRØN</h1>
-    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-delay="1300" data-aos-offset="500">September 3rd</h2>
+    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-delay="1300" data-aos-offset="600">September 3rd</h2>
   </div>
   </router-link>
   <router-link :to="{name: 'quelza'}">
