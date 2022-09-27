@@ -1434,7 +1434,7 @@ footer p {
   background-size: cover;
   background-position: center;
   background-attachment: scroll;
-  margin-bottom: 1em;
+  margin-bottom: 2vw;
   transition: .3s ease;
   /* border-radius: 10px; */
 }
