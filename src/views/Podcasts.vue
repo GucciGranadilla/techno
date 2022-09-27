@@ -15,7 +15,7 @@
   </div>
   </router-link>
   <router-link :to="{name: 'quelza'}">
-  <div  class="hero-img-3 mb_parallax_container" id="mb_parallax_one" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">
+  <div  class="hero-img-3 mb_parallax_container" id="mb_parallax_one" data-aos="fade-up" data-aos-duration="700"  >
     <h1 class="hero-img-h1">QUELZA</h1>
     <h2 class="hero-img-h2">August 2nd</h2>
   </div>
