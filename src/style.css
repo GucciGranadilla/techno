@@ -588,7 +588,6 @@ footer p {
   height: 47rem;
   padding-bottom: 100px;
   background: url('https://www.amsterdam-dance-event.nl/uploads/images/events/_1200x630_crop_center-center_none/DaveClarkePresents.jpg');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -603,7 +602,6 @@ footer p {
   height: 47rem;
   padding-bottom: 100px;
   background: url('@/assets/img/m-5.jpg');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -618,7 +616,6 @@ footer p {
   height: 47rem;
   padding-bottom: 100px;
   background: url('https://blog.beatworx.in/wp-content/uploads/2021/08/IMG_7373-scaled.jpg');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -633,7 +630,6 @@ footer p {
   height: 47rem;
   padding-bottom: 100px;
   background: url('https://www.6amgroup.com/wp-content/uploads/2020/02/Setaoc-Mass-2-scaled.jpg');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -649,7 +645,6 @@ footer p {
   height: 47rem;
   padding-bottom: 100px;
   background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t1.6435-9/43612904_1913313368748494_2194121014240083968_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=tTmsl6X17GoAX89VUgB&_nc_ht=scontent-cpt1-1.xx&oh=00_AT_JNHpdMEz_yfFJDu1_cyPs2aAcuOK3exvXVB4Axh77NQ&oe=635603A4');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -666,7 +661,6 @@ footer p {
   height: 42rem;
   /* padding-bottom: 100px; */
   background: url('@/assets/img/m-8.jpg');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -710,7 +704,6 @@ footer p {
   height: 42rem;
   padding-bottom: 100px;
   background: url('https://blog.beatworx.in/wp-content/uploads/2021/08/IMG_7373-scaled.jpg');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -734,7 +727,6 @@ footer p {
   height: 42rem;
   padding-bottom: 100px;
   background: url('https://www.elitemm.co.uk/wp-content/uploads/2021/11/Copy-of-DSC05894-scaled.jpg');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -760,7 +752,6 @@ footer p {
   height: 42rem;
   padding-bottom: 100px;
   background: url('https://static.ra.co/images/profiles/square/vil-pt.jpg?dateUpdated=1519430400000');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -784,7 +775,6 @@ footer p {
   height: 40rem;
   padding-bottom: 100px;
   background: url('https://weareblacksmith.co/assets/images/work/play-sho-madjozi/Play-1.webp');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -803,7 +793,6 @@ footer p {
   height: 40rem;
   padding-bottom: 100px;
   background: url('https://weareblacksmith.co/assets/images/work/sole-dxb/soledxb-3.webp');
-  border-radius: 10px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -1072,9 +1061,7 @@ footer p {
   background-attachment: fixed;
 }
 
-.carousel__slide {
-  border-radius: 10px;
-}
+
 
 .carousel__slide:nth-child(1) {
   scroll-snap-stop: auto;
