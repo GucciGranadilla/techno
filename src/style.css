@@ -1243,7 +1243,7 @@ footer p {
     z-index: 2;
     background: rgb(235, 235, 235);
     background-image: url(https://cdn.pixabay.com/photo/2017/07/04/13/37/blue-wings-2471094__340.png);
-    background-size: 55%;
+    background-size: 65%;
     background-position: center;
     background-repeat: no-repeat;
     overflow-x: hidden ;
@@ -1434,7 +1434,6 @@ footer p {
     background: url('https://www.6amgroup.com/wp-content/uploads/2020/02/Setaoc-Mass-2-scaled.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     background-position: 50% 30%;
     background-attachment: scroll;
     z-index: 10;
@@ -1452,7 +1451,7 @@ footer p {
     background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t1.6435-9/43612904_1913313368748494_2194121014240083968_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=tTmsl6X17GoAX89VUgB&_nc_ht=scontent-cpt1-1.xx&oh=00_AT_JNHpdMEz_yfFJDu1_cyPs2aAcuOK3exvXVB4Axh77NQ&oe=635603A4');
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: 50% 30%;
     z-index: 10;
     /* filter: grayscale(100%); */
