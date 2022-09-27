@@ -55,7 +55,7 @@ We choose to go to the moon.</p>
   </span>
 </section>
 
-<section class="main-2-o" data-aos="fade" data-aos-duration="700" data-aos-delay="500" >
+<section class="main-2-o" data-aos="fade" data-aos-duration="700" data-aos-delay="200" >
   <h2>Our Team:</h2>
   <Slider></Slider>
 
