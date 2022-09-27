@@ -1754,7 +1754,7 @@ footer p {
   background-repeat: no-repeat;
   background-position: 40% 30%;
   filter: grayscale(100%);
-  /* background-attachment: fixed; */
+  background-attachment: scroll;
 }
 
 .dj-cont-2-img {
@@ -1778,6 +1778,7 @@ footer p {
   background-position: 40% 80%;
   margin-top: 12vw;
   margin-left: 0vw;
+  background-attachment: scroll;
 }
 
 .dj-cont-2-img2 {
@@ -1802,6 +1803,7 @@ footer p {
   margin-left: -2vw;
   margin-bottom: -2vw;
   background-position: 40% 0%;
+  background-attachment: scroll;
 }
 
 
