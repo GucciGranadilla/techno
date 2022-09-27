@@ -35,9 +35,9 @@
 </main>
 <footer>
     <div>
-    <a><router-link :to="{name: 'home'}">Home</router-link></a>
-    <a><router-link :to="{name: 'podcasts'}">Podcasts</router-link></a>
-    <a class="menu-radio"><div class="circle"></div><router-link :to="{name: 'live'}">Live</router-link></a>
+    <router-link :to="{name: 'home'}">Home</router-link>
+    <router-link :to="{name: 'podcasts'}">Podcasts</router-link>
+    <div class="menu-radio"><div class="circle"></div><router-link :to="{name: 'live'}">Live</router-link></div>
 
 </div>
 <div>
