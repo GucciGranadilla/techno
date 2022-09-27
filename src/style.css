@@ -698,6 +698,8 @@ footer p {
   filter: grayscale(100%);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 50% 30%;
+
 }
 .hero-img-3 {
   width: 100%;
@@ -707,7 +709,7 @@ footer p {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: center;
+  background-position: 50% 50%;
   margin-bottom: 1em;
   transition: .3s ease;
   display: flex;
@@ -720,7 +722,7 @@ footer p {
   background-size: cover;
   transition: .3s ease;
   filter: grayscale(100%);
-  background-position: center;
+  background-position: 50% 20%;
 }
 .hero-img-4 {
   width: 100%;
@@ -755,7 +757,7 @@ footer p {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: top;
+  background-position: 50% 100%;
   margin-bottom: 1em;
   transition: .3s ease;
   display: flex;
@@ -768,7 +770,7 @@ footer p {
   background-size: cover;
   filter: grayscale(100%);
   background-position: bottom;
-  background-position:  50% 35%;
+  background-position:  50% 70%;
 }
 .hero-img-6 {
   width: 100%;
