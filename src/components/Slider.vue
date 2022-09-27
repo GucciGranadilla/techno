@@ -5,8 +5,8 @@
     </slide>
   
       <template #addons>
-        <navigation />
-        <pagination />
+        <!-- <navigation />
+        <pagination /> -->
       </template>
     </carousel>
   </template>
