@@ -1758,6 +1758,18 @@ footer p {
   /* background-attachment: fixed; */
 }
 
+.dj-cont-2-img {
+  width: 45vw;
+  height: 35vw;
+  background: url('https://i1.sndcdn.com/avatars-i7GpGFsQaCgJLHmX-fpBQhA-t500x500.jpg');
+  margin: 0 vw;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 40% 30%;
+  filter: grayscale(100%);
+  background-attachment: scroll;
+}
+
 .dj-cont-1-img2 {
   width: 50vw;
   height: 50vh;
