@@ -1769,6 +1769,33 @@ footer p {
   background-attachment: scroll;
 }
 
+.dj-cont-3-img {
+  width: 45vw;
+  height: 35vw;
+  background: url('https://static.ra.co/images/profiles/square/cleric.jpg?dateUpdated=1582804402683');
+
+  margin: 0 vw;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 40% 30%;
+  filter: grayscale(100%);
+  background-attachment: scroll;
+}
+
+.dj-cont-4-img {
+  width: 45vw;
+  height: 35vw;
+  background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/293185092_3400300570202353_3646665238918641640_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a26aad&_nc_ohc=NCW-81-6UYYAX-0nIl0&_nc_ht=scontent-cpt1-1.xx&oh=00_AT_8FmvorUVMWPeiyJEYM8LVlx4uP4isNibUbcGailnYvA&oe=6337025A');
+
+  margin: 0 vw;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 40% 30%;
+  filter: grayscale(100%);
+  background-attachment: scroll;
+}
+
+
 .dj-cont-1-img2 {
   width: 50vw;
   height: 50vh;
@@ -1791,6 +1818,34 @@ footer p {
   background-position: 40% 80%;
   margin-top: 12vw;
   margin-left: 50vw;
+}
+
+.dj-cont-3-img2 {
+  width: 25vw;
+  height: 50vw;
+  background: url('https://z9j9e3w7.stackpathcdn.com/wp-content/uploads/2017/07/Matrixxman-Setaoc-Mass-Press-Pic-2-1.jpg');
+  margin: 0 2vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 40% 80%;
+  margin-top: 12vw;
+  margin-left: 50vw;
+  background-attachment: scroll;
+
+}
+
+.dj-cont-4-img2 {
+  width: 25vw;
+  height: 50vw;
+  background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t1.6435-9/86295962_2859381347453535_5369722324259962880_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9267fe&_nc_ohc=6fTB72eefAcAX_GSNHw&_nc_ht=scontent-cpt1-1.xx&oh=00_AT95LCtSxX1Qh93RDw7C1HsOXxrV5ODEd53ARINc_KihMQ&oe=635765C2');
+  margin: 0 2vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 40% 80%;
+  margin-top: 12vw;
+  margin-left: 50vw;
+  background-attachment: scroll;
+
 }
 
 
@@ -1817,6 +1872,33 @@ footer p {
   margin-left: -2vw;
   margin-bottom: -2vw;
   background-position: 50% 45%;
+  background-attachment: scroll;
+}
+
+.dj-cont-3-img3 {
+  width: 100vw;
+  height: 55vw;
+  background: url('https://www.parkettchannel.it/wp-content/uploads/Setaoc-Mass-Press-Pic-3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 12vw;
+  margin-left: -2vw;
+  margin-bottom: -2vw;
+  background-position: 50% 25%;
+  background-attachment: scroll;
+}
+
+
+.dj-cont-4-img3 {
+  width: 100vw;
+  height: 55vw;
+  background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t1.18169-9/14708345_591218674398179_7156510396925099376_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9267fe&_nc_ohc=7QBOk5JGQKoAX8B61NP&_nc_ht=scontent-cpt1-1.xx&oh=00_AT9bcCzjuy_BWSbibcm3VJB42SMIgHabb2w1BsnCB_I5iQ&oe=6358EA16');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 12vw;
+  margin-left: -2vw;
+  margin-bottom: -2vw;
+  background-position: 50% 25%;
   background-attachment: scroll;
 }
 
