@@ -16,20 +16,20 @@
   </router-link>
   <router-link :to="{name: 'quelza'}">
   <div  class="hero-img-3 mb_parallax_container" id="mb_parallax_one">
-    <h1 class="hero-img-h1" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">QUELZA</h1>
-    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">August 2nd</h2>
+    <h1 class="hero-img-h1" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="200">QUELZA</h1>
+    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="200">August 2nd</h2>
   </div>
 </router-link>
 <router-link :to="{name: 'setoac'}">
   <div  class="hero-img-4 mb_parallax_container" id="mb_parallax_one">
-    <h1 class="hero-img-h1" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">SETAOC MASS</h1>
-    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">March 14th</h2>
+    <h1 class="hero-img-h1" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="200">SETAOC MASS</h1>
+    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="200">March 14th</h2>
   </div>
 </router-link>
   <router-link :to="{name: 'vil'}">
   <div  class="hero-img-5 mb_parallax_container" id="mb_parallax_one">
-    <h1 class="hero-img-h1" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">VIL</h1>
-    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">February 1st</h2>
+    <h1 class="hero-img-h1" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="200">VIL</h1>
+    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="200">February 1st</h2>
   </div>
 </router-link>
   <h1  data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">LOVE PARADE - 1992</h1>
