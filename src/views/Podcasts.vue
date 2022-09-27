@@ -23,7 +23,7 @@
 <router-link :to="{name: 'setoac'}">
   <div  class="hero-img-4 mb_parallax_container" id="mb_parallax_one">
     <h1 class="hero-img-h1" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="200">SETAOC MASS</h1>
-    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="200">March 14th</h2>
+    <h2 class="hero-img-h2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="100">March 14th</h2>
   </div>
 </router-link>
   <router-link :to="{name: 'vil'}">
