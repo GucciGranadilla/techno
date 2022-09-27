@@ -1406,6 +1406,24 @@ footer p {
     /* filter: grayscale(100%); */
       /* border-radius: 10px; */
   }
+
+  .hero-img-h1{
+    color: #fff;
+    width: 5.1em;
+    font-size: 2rem;
+    margin: 1rem .5rem 0;
+    line-height: 1;
+    border: 0;
+  }
+  
+  .hero-img-h2{
+    /* color: #fff; */
+    color: #747bff;
+    font-size: 1.2rem;
+    width: 100%;
+    margin: 1rem 1.5rem;
+    line-height: 1;
+  }
   
   
 .hero-img-2 {
@@ -1442,6 +1460,7 @@ footer p {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-attachment: scroll;
   margin-bottom: 1em;
   /* border-radius: 10px; */
 }
