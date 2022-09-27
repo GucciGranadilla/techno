@@ -24,8 +24,8 @@ We choose to go to the moon.</p>
   <div class="tab-panels">
     <section id="marzen" class="tab-panel">
       <div class="tab-img-wrp">
-      <div class="tab-img"><h1>Hello</h1></div>
-      <div class="tab-img-2"><h1>Hello</h1></div>
+      <div class="tab-img" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500"><h1>Hello</h1></div>
+      <div class="tab-img-2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500"><h1>Hello</h1></div>
     </div>
       <h2>6A. Märzen</h2>
       <p><strong><span class="highlight">Overall Impression:</span></strong> An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy.</p>
