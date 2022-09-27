@@ -1145,10 +1145,85 @@ footer p {
 }
 
 
+.page {
+  min-width: 100vw;
+  min-height: 100vh;
+  /* background-color: #000; */
+  background-image: url(https://cdn.pixabay.com/photo/2017/07/04/13/37/blue-wings-2471094__340.png);
+  background-size: 450px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.swiper {
+  width: 600px;
+  height: 500px;
+}
+
+.swiper-slide {
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+}
+
+
+.circle, .circle::before {
+  content: " ";
+  margin: 10.5px;
+  width: 11px;
+  height: 10.5px;
+  border-radius: 50%;
+  margin: 0 auto;
+  transition: all 0.3s;
+  background-color: #FF0055;
+}
+
+.circle::before {
+  animation: mymove 2s infinite;
+  position: absolute;
+  background-color: #00FF00
+}
+
+@-webkit-keyframes mymove {
+  50%   {
+    transform: scale(2);
+    opacity: 0;
+
+  }
+  100%   {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+.menu-radio {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.menu-radio a{
+ margin-left: 10px;
+}
+
+
 
 @media all and (max-width: 768px) {
 
-  .page {
+  /* .page {
     width: 100vw;
     position: relative;
     z-index: 2;
@@ -1156,7 +1231,22 @@ footer p {
     margin-bottom: 55px;
     background: rgb(235, 235, 235);
     overflow-x: hidden ;
+  } */
+
+  .page {
+    min-width: 100vw;
+    min-height: 100vh;
+    /* background-color: #000; */
+    z-index: 2;
+    background: rgb(235, 235, 235);
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/04/13/37/blue-wings-2471094__340.png);
+    background-size: 35%;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow-x: hidden ;
+    margin-bottom: 55px;
   }
+  
   
   .about-c {
     padding: 5.6rem 0% 0% 0%;
@@ -1174,6 +1264,8 @@ footer p {
     -o-transition: left 300ms 300ms;
     transition: left 300ms 300ms;
     padding: 2vw 2vw;
+    display: flex;
+    flex-direction: column;
   }
   
   
@@ -1674,77 +1766,3 @@ footer p {
 
 
 
-
-.page {
-  min-width: 100vw;
-  min-height: 100vh;
-  /* background-color: #000; */
-  background-image: url(https://cdn.pixabay.com/photo/2017/07/04/13/37/blue-wings-2471094__340.png);
-  background-size: 450px;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-.swiper {
-  width: 600px;
-  height: 500px;
-}
-
-.swiper-slide {
-  background-color: #000;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 60px;
-}
-
-
-.circle, .circle::before {
-  content: " ";
-  margin: 10.5px;
-  width: 11px;
-  height: 10.5px;
-  border-radius: 50%;
-  margin: 0 auto;
-  transition: all 0.3s;
-  background-color: #FF0055;
-}
-
-.circle::before {
-  animation: mymove 2s infinite;
-  position: absolute;
-  background-color: #00FF00
-}
-
-@-webkit-keyframes mymove {
-  50%   {
-    transform: scale(2);
-    opacity: 0;
-
-  }
-  100%   {
-    transform: scale(2);
-    opacity: 0;
-  }
-}
-
-.menu-radio {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-.menu-radio a{
- margin-left: 10px;
-}
