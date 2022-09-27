@@ -837,7 +837,7 @@ footer p {
 .main-2-o {
   overflow-x: hidden;
   padding-top: 2em;
-  padding: 0 2vw;
+  padding: 2vw 2vw;
 }
 
 
@@ -1223,7 +1223,7 @@ footer p {
 
 @media all and (max-width: 768px) {
 
-  .page {
+  /* .page {
     width: 100vw;
     position: relative;
     z-index: 2;
@@ -1231,7 +1231,7 @@ footer p {
     margin-bottom: 55px;
     background: rgb(235, 235, 235);
     overflow-x: hidden ;
-  }
+  } */
 
   .page {
     min-width: 100vw;
@@ -1244,7 +1244,7 @@ footer p {
     background-position: center;
     background-repeat: no-repeat;
     overflow-x: hidden ;
-    margin-bottom: 55px;
+    /* margin-bottom: 55px; */
   }
   
   

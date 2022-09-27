@@ -1,6 +1,6 @@
 <template>
   <carousel :settings="settings" :breakpoints="breakpoints">
-    <slide v-for="slide in 10" :key="slide">
+    <slide v-for="slide in 5" :key="slide">
       <div class="carousel__item">{{ slide }}</div>
     </slide>
   
@@ -40,7 +40,7 @@ export default defineComponent({
       },
       // 1024 and up
       1024: {
-        itemsToShow: 1.5,
+        itemsToShow: 2.5,
         snapAlign: 'start',
       },
     },
