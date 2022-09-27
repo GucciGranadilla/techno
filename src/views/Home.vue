@@ -27,7 +27,7 @@ We choose to go to the moon.</p>
       <div class="tab-img" data-aos="fade" data-aos-duration="700"><h1>Hello</h1></div>
       <div class="tab-img-2"><h1>Hello</h1></div>
     </div>
-      <h2 data-aos="fade" data-aos-duration="700">6A. Märzen</h2>
+      <h2 data-aos="fade" data-aos-duration="700" data-aos-delay="300">6A. Märzen</h2>
       <p data-aos="fade" data-aos-duration="700"><strong><span class="highlight">Overall Impression:</span></strong> An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy.</p>
   </section>
     <section id="rauchbier" class="tab-panel">
@@ -55,7 +55,7 @@ We choose to go to the moon.</p>
   </span>
 </section>
 
-<section class="main-2-o" data-aos="fade" data-aos-duration="700" >
+<section class="main-2-o" data-aos="fade" data-aos-duration="700" data-aos-delay="500" >
   <h2>Our Team:</h2>
   <Slider></Slider>
 
