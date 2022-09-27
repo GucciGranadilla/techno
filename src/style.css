@@ -1273,7 +1273,7 @@ footer p {
     justify-content: space-evenly;
   }
 
- .menu button h1 {
+ #menu button h1 {
     font-size: 3em;
     line-height: 1;
     letter-spacing: .35rem;
