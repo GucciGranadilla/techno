@@ -43,8 +43,8 @@ We choose to go to the moon.</p>
   </div>
 </div>
 </section>
-<section class="marq-container" data-aos="fade-left" data-aos-duration="700"    data-aos-offset="500">
-  <span class="sliding">
+<section class="marq-container">
+  <span class="sliding" data-aos="fade-left" data-aos-duration="700"    data-aos-offset="500">
     <span>Berlin</span>
     <span>  //  </span>
     <span>Stuttgart</span>
