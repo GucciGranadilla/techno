@@ -13,7 +13,12 @@ export default defineConfig({
   },
   plugins: [
     vue(),
-    VitePWA({ registerType: 'autoUpdate' })
+    VitePWA({
+      registerType: 'autoUpdate',
+      workbox: {
+        globPatterns: ['**/*.{js,css,html,ico,png,svg}']
+      }
+    })
     ],
   resolve: {
     alias: {
