@@ -1410,7 +1410,7 @@ footer p {
   .hero-img-h1{
     color: #fff;
     width: 5.1em;
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin: 1rem .5rem 0;
     line-height: 1;
     border: 0;
@@ -1419,9 +1419,9 @@ footer p {
   .hero-img-h2{
     /* color: #fff; */
     color: #747bff;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     width: 100%;
-    margin: 1rem .5rem;
+    margin: 1rem 1rem;
     line-height: 1;
   }
   
