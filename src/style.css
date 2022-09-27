@@ -172,11 +172,6 @@ button:hover {
 
 /* Font Style/Family */
 
-nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
 
 #menu {
   position: fixed;
