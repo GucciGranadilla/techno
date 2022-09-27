@@ -1266,12 +1266,24 @@ footer p {
     -webkit-transition: left 300ms 300ms;
     -o-transition: left 300ms 300ms;
     transition: left 300ms 300ms;
-    padding: 20vh 2vw;
+    padding: 15% 2vw;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
   }
+
+ .menu button h1 {
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: .35rem;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    font-weight: 600;
+    color: #000;
+    border: 2.5px solid;
+    width: 100%;
+}
   
   
   .span1 {
