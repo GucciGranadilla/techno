@@ -1,6 +1,6 @@
 <template>
 <nav>
-<button name="hamburger">
+<button class="hamburger" name="hamburger">
     <span class="span1"></span>
     <span class="span1"></span>
     <span class="span1"></span>
