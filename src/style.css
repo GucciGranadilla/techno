@@ -1417,6 +1417,7 @@ footer p {
   background-position: bottom;
   margin-bottom: 1em;
   transition: .3s ease;
+  object-fit: cover;
   /* border-radius: 10px; */
 }
 .hero-img-2:hover {
