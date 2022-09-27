@@ -1224,11 +1224,9 @@ footer p {
 }
 
 
-.carousel__slide--visible > .carousel__item {
-  opacity: 1;
+.carousel__slide--visible {
   transform: rotateY(0);
-}
-
+  }
 
 @media all and (max-width: 768px) {
 
