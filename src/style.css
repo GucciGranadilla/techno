@@ -1061,6 +1061,10 @@ footer p {
   background-attachment: fixed;
 }
 
+.carousel__slide {
+  border-radius: 15px;
+}
+
 .carousel__slide:nth-child(1) {
   scroll-snap-stop: auto;
   flex-shrink: 0;
