@@ -1,8 +1,8 @@
 <template>
-    <carousel :items-to-show="1.5">
-      <slide v-for="slide in 5" :key="slide">
-        {{ slide }}
-      </slide>
+  <carousel :settings="settings" :breakpoints="breakpoints">
+    <slide v-for="slide in 10" :key="slide">
+      <div class="carousel__item">{{ slide }}</div>
+    </slide>
   
       <template #addons>
         <navigation />
