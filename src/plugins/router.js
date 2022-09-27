@@ -16,7 +16,11 @@ const router = createRouter({
     history: createWebHistory(),
     scrollBehavior(to, from, savedPosition) {
         // always scroll to top
-        return { top: 0 }
+        return new Promise((resolve, reject) => {
+            setTimeout(() => {
+              resolve({ top: 0 })
+            }, 500)
+          })
       },
 })
 
