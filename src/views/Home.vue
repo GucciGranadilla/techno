@@ -43,7 +43,7 @@ We choose to go to the moon.</p>
   </div>
 </div>
 </section>
-<section class="marq-container">
+<section class="marq-container" data-aos="fade-left" data-aos-duration="700"    data-aos-offset="500">
   <span class="sliding">
     <span>Berlin</span>
     <span>  //  </span>
@@ -55,7 +55,7 @@ We choose to go to the moon.</p>
   </span>
 </section>
 
-<section class="main-2-o" data-aos="fade-left" data-aos-duration="700"    data-aos-offset="500">
+<section class="main-2-o" data-aos="fade-up" data-aos-duration="700"    data-aos-offset="500">
   <h2>Our Team:</h2>
   <Slider></Slider>
 
