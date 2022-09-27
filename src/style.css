@@ -1226,6 +1226,7 @@ footer p {
 
 .carousel__slide--visible {
   transform: rotateY(0);
+  background-attachment: scroll;
   }
 
 @media all and (max-width: 768px) {
