@@ -1398,7 +1398,6 @@ footer p {
     margin-left: -2vw;
     margin-right: -2vw;
     padding-bottom: 100px;
-    background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/251508379_1840863989635337_5466353740532867253_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a26aad&_nc_ohc=bJFhv337SgAAX8k6gvk&_nc_ht=scontent-cpt1-1.xx&oh=00_AT_m2JlKBqt4LPuL0YbCOJRZHLGShYhLP10297QW-TM5jA&oe=631AB6E7');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1410,8 +1409,10 @@ footer p {
 
   
   .hero-img-pQ {
-    width: 100%;
-    height: 47rem;
+    width: 100vw;
+    height: 75vh;
+    margin-left: -2vw;
+    margin-right: -2vw;
     padding-bottom: 100px;
     background: url('https://blog.beatworx.in/wp-content/uploads/2021/08/IMG_7373-scaled.jpg');
     background-repeat: no-repeat;
@@ -1425,8 +1426,10 @@ footer p {
   }
   
   .hero-img-setoac {
-    width: 100%;
-    height: 47rem;
+    width: 100vw;
+    height: 75vh;
+    margin-left: -2vw;
+    margin-right: -2vw;
     padding-bottom: 100px;
     background: url('https://www.6amgroup.com/wp-content/uploads/2020/02/Setaoc-Mass-2-scaled.jpg');
     background-repeat: no-repeat;
@@ -1441,8 +1444,10 @@ footer p {
   }
   
   .hero-img-vil {
-    width: 100%;
-    height: 47rem;
+    width: 100vw;
+    height: 75vh;
+    margin-left: -2vw;
+    margin-right: -2vw;
     padding-bottom: 100px;
     background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t1.6435-9/43612904_1913313368748494_2194121014240083968_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=tTmsl6X17GoAX89VUgB&_nc_ht=scontent-cpt1-1.xx&oh=00_AT_JNHpdMEz_yfFJDu1_cyPs2aAcuOK3exvXVB4Axh77NQ&oe=635603A4');
     background-repeat: no-repeat;
