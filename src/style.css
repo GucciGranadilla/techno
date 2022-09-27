@@ -1492,7 +1492,7 @@ footer p {
 }
 .hero-img-2:hover {
   transition: .3s ease;
-
+  background-attachment: scroll;
 }
 .hero-img-3 {
   width: 100%;
