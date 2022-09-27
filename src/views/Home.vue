@@ -8,7 +8,7 @@
 We choose to go to the moon.</p>
   <p class="reveal__content">We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.</p>
 </section>
-<section class="main-2h"  data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500">
+<section class="main-2h" >
   <h2>Featured Events:</h2>
 <div class="tabset">
   <!-- Tab 1 -->
@@ -24,8 +24,8 @@ We choose to go to the moon.</p>
   <div class="tab-panels">
     <section id="marzen" class="tab-panel">
       <div class="tab-img-wrp">
-      <div class="tab-img" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500"><h1>Hello</h1></div>
-      <div class="tab-img-2" data-aos="fade-up" data-aos-duration="700"  data-aos-offset="500"><h1>Hello</h1></div>
+      <div class="tab-img"><h1>Hello</h1></div>
+      <div class="tab-img-2"><h1>Hello</h1></div>
     </div>
       <h2>6A. Märzen</h2>
       <p><strong><span class="highlight">Overall Impression:</span></strong> An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy.</p>
