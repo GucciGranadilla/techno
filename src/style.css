@@ -693,7 +693,7 @@ footer p {
 }
 
 .hero-img-2:hover {
-  background: url('https://i1.sndcdn.com/visuals-MpS40DgKMnxQJRdL-NNgx9w-t1240x260.jpg');
+  /* background: url('https://i1.sndcdn.com/visuals-MpS40DgKMnxQJRdL-NNgx9w-t1240x260.jpg'); */
   transition: .3s ease;
   filter: grayscale(100%);
   background-repeat: no-repeat;
@@ -715,7 +715,7 @@ footer p {
   /* border-radius: 10px; */
 }
 .hero-img-3:hover {
-  background: url('https://manifesto-21.com/wp-content/uploads/2022/04/Quelza-Les-Malicieuses-3-e1650110927987.jpeg');
+  /* background: url('https://manifesto-21.com/wp-content/uploads/2022/04/Quelza-Les-Malicieuses-3-e1650110927987.jpeg'); */
   background-repeat: no-repeat;
   background-size: cover;
   transition: .3s ease;
@@ -740,7 +740,7 @@ footer p {
 
 
 .hero-img-4:hover {
-  background: url('https://ichef.bbci.co.uk/images/ic/1200x675/p06f95s1.jpg');
+  /* background: url('https://ichef.bbci.co.uk/images/ic/1200x675/p06f95s1.jpg'); */
   background-repeat: no-repeat;
   background-size: cover;
   transition: .3s ease;
@@ -763,7 +763,7 @@ footer p {
   /* border-radius: 10px; */
 }
 .hero-img-5:hover {
-  background: url('https://mlmwd2hlrqv8.i.optimole.com/MITRABE-wJV3w1Nu/w:1024/h:683/q:75/http://www.bomphcast.com/wp-content/uploads/2019/09/Vil-1.jpg');
+  /* background: url('https://mlmwd2hlrqv8.i.optimole.com/MITRABE-wJV3w1Nu/w:1024/h:683/q:75/http://www.bomphcast.com/wp-content/uploads/2019/09/Vil-1.jpg'); */
   transition: .3s ease;
   background-size: cover;
   filter: grayscale(100%);
@@ -784,7 +784,7 @@ footer p {
   /* border-radius: 10px; */
 }
 .hero-img-6:hover {
-  background: url('https://weareblacksmith.co/assets/images/work/guinness-pack/guinness-8.JPG');
+  /* background: url('https://weareblacksmith.co/assets/images/work/guinness-pack/guinness-8.JPG'); */
   transition: .3s ease;
   filter: grayscale(100%);
 }
@@ -1489,22 +1489,6 @@ footer p {
   margin-bottom: 2vw;
   transition: .3s ease;
   /* border-radius: 10px; */
-}
-
-.hero-img-2:hover {
-  display: none;
-}
-
-.hero-img-3:hover {
-  display: none;
-}
-
-.hero-img-4:hover {
-  display: none;
-}
-
-.hero-img-5:hover {
-  display: none;
 }
 
 .hero-img-3 {
