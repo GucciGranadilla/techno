@@ -9,7 +9,7 @@
     <h1>Apo11o</h1>
 </div> -->
 <div id="menu">
-    <button class="menu-button">
+    <button class="menu-button" name="menu-button">
     <h1>Back</h1>
 </button>
     <router-link :to="{name: 'home'}">Home</router-link>
