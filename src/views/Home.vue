@@ -4,9 +4,9 @@
   <div  class="hero-img mb_parallax_container"  id="mb_parallax_one"></div>
   <h1 class="reveal__content">Yuu-gen</h1>
   <!-- <h1>MARRØN</h1> -->
-  <p class="reveal__content" data-aos="fade" data-aos-duration="500">There is no strife, no prejudice, no national conflict in outer space as yet. Its hazards are hostile to us all. Its conquest deserves the best of all mankind, and its opportunity for peaceful cooperation many never come again. But why, some say, the moon? Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?
+  <p class="reveal__content" data-aos="fade" data-aos-duration="700">There is no strife, no prejudice, no national conflict in outer space as yet. Its hazards are hostile to us all. Its conquest deserves the best of all mankind, and its opportunity for peaceful cooperation many never come again. But why, some say, the moon? Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?
 We choose to go to the moon.</p>
-  <p class="reveal__content" data-aos="fade" data-aos-duration="500">We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.</p>
+  <p class="reveal__content" data-aos="fade" data-aos-duration="700">We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.</p>
 </section>
 <section class="main-2h" >
   <h2>Featured Events:</h2>
@@ -24,11 +24,11 @@ We choose to go to the moon.</p>
   <div class="tab-panels">
     <section id="marzen" class="tab-panel">
       <div class="tab-img-wrp">
-      <div class="tab-img"><h1>Hello</h1></div>
+      <div class="tab-img" data-aos="fade" data-aos-duration="700"><h1>Hello</h1></div>
       <div class="tab-img-2"><h1>Hello</h1></div>
     </div>
-      <h2>6A. Märzen</h2>
-      <p><strong><span class="highlight">Overall Impression:</span></strong> An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy.</p>
+      <h2 data-aos="fade" data-aos-duration="700">6A. Märzen</h2>
+      <p data-aos="fade" data-aos-duration="700"><strong><span class="highlight">Overall Impression:</span></strong> An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy.</p>
   </section>
     <section id="rauchbier" class="tab-panel">
       <h2>6B. Rauchbier</h2>
