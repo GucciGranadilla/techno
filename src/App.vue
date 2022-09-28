@@ -1,9 +1,9 @@
 <template>
 <nav>
-<button class="menu-button" name="menu" alt="menu-button">
-    <span class="span1"></span>
-    <span class="span1"></span>
-    <span class="span1"></span>
+<button class="menu-button" name="menu">
+    <span class="span1"  alt="menu-button"></span>
+    <span class="span1"  alt="menu-button"></span>
+    <span class="span1"  alt="menu-button"></span>
 </button>
 <!-- <div>
     <h1>Apo11o</h1>
