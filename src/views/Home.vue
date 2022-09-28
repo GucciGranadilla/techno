@@ -67,12 +67,13 @@ We choose to go to the moon.</p>
 
 
 <script setup>
-const getMovie = async () => {
-  await new Promise((resolve) => setTimeout(resolve, 1200));
+  
+// const getMovie = async () => {
+//   await new Promise((resolve) => setTimeout(resolve, 1200));
 
-}
+// }
 
-await getMovie();
+// await getMovie();
 
 
 </script>
@@ -91,4 +92,19 @@ await getMovie();
   }
   
   
+  </script>
+
+<script>
+  import { defineComponent, ref } from "vue";
+  
+  export default defineComponent({
+    async setup() {
+      const result = ref();
+  
+      const response = await fetch("https://api.publicapis.org/entries");
+      result.value = await response.json();
+  
+      return { result };
+    },
+  });
   </script>
