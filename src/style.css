@@ -706,7 +706,7 @@ footer p {
   width: 100%;
   height: 42rem;
   padding-bottom: 100px;
-  background: url('@/assets/img/hero-img-pQ.webp');
+  background: url('@/assets/img/hero-img-pQ.webp');  
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
