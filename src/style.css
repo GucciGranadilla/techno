@@ -869,7 +869,7 @@ footer p {
  }
 
  .main-img-3 {
-  background: url('https://geo-media.beatport.com/image_size/590x404/ee6a3d25-1081-43a7-914b-a18302c2d135.jpg');
+  background: url('@/assets/img/main-img-3.webp');
   width: 55vw;
   height: 32rem;
   margin-right: 20px;
@@ -900,7 +900,7 @@ footer p {
   width: 100%;
   height: 60rem;
   padding-bottom: 100px;
-  background: url('https://i0.wp.com/dancewax.net/wp-content/uploads/2020/12/156476806_175221344411508_1058967793603957717_n.jpg');
+  background: url('@/assets/img/tab-img.webp');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
