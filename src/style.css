@@ -428,7 +428,7 @@ footer p {
 .dj-cont-2-img {
   width: 45vw;
   height: 35vw;
-  background: url('https://i1.sndcdn.com/avatars-i7GpGFsQaCgJLHmX-fpBQhA-t500x500.jpg');
+  background: url('@/assets/img/dj-cont-2-img.webp');
   margin: 0 vw;
   background-size: contain;
   background-repeat: no-repeat;
@@ -440,7 +440,7 @@ footer p {
 .dj-cont-3-img {
   width: 45vw;
   height: 35vw;
-  background: url('https://static.ra.co/images/profiles/square/cleric.jpg?dateUpdated=1582804402683');
+  background: url('@/assets/img/dj-cont-3-img.webp');
 
   margin: 0 vw;
   background-size: contain;
@@ -453,7 +453,7 @@ footer p {
 .dj-cont-4-img {
   width: 45vw;
   height: 35vw;
-  background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/293185092_3400300570202353_3646665238918641640_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a26aad&_nc_ohc=NCW-81-6UYYAX-0nIl0&_nc_ht=scontent-cpt1-1.xx&oh=00_AT_8FmvorUVMWPeiyJEYM8LVlx4uP4isNibUbcGailnYvA&oe=6337025A');
+  background: url('@/assets/img/dj-cont-4-img.webp');
 
   margin: 0 vw;
   background-size: contain;
@@ -490,7 +490,7 @@ footer p {
 .dj-cont-3-img2 {
   width: 25vw;
   height: 50vw;
-  background: url('https://z9j9e3w7.stackpathcdn.com/wp-content/uploads/2017/07/Matrixxman-Setaoc-Mass-Press-Pic-2-1.jpg');
+  background: url('@/assets/img/dj-cont-3-img2.webp');
   margin: 0 2vw;
   background-size: cover;
   background-repeat: no-repeat;
@@ -502,7 +502,7 @@ footer p {
 .dj-cont-4-img2 {
   width: 25vw;
   height: 50vw;
-  background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t1.6435-9/86295962_2859381347453535_5369722324259962880_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9267fe&_nc_ohc=6fTB72eefAcAX_GSNHw&_nc_ht=scontent-cpt1-1.xx&oh=00_AT95LCtSxX1Qh93RDw7C1HsOXxrV5ODEd53ARINc_KihMQ&oe=635765C2');
+  background: url('@/assets/img/dj-cont-4-img2.webp');
   margin: 0 2vw;
   background-size: cover;
   background-repeat: no-repeat;
@@ -541,7 +541,7 @@ footer p {
 .dj-cont-3-img3 {
   width: 100vw;
   height: 35vw;
-  background: url('https://www.parkettchannel.it/wp-content/uploads/Setaoc-Mass-Press-Pic-3.jpg');
+  background: url('@/assets/img/dj-cont-3-img3.webp');
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 12vw;
@@ -555,7 +555,7 @@ footer p {
 .dj-cont-4-img3 {
   width: 100vw;
   height: 35vw;
-  background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t1.18169-9/14708345_591218674398179_7156510396925099376_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9267fe&_nc_ohc=7QBOk5JGQKoAX8B61NP&_nc_ht=scontent-cpt1-1.xx&oh=00_AT9bcCzjuy_BWSbibcm3VJB42SMIgHabb2w1BsnCB_I5iQ&oe=6358EA16');
+  background: url('@/assets/img/dj-cont-4-img3.webp');
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 12vw;
@@ -588,7 +588,7 @@ footer p {
   width: 100%;
   height: 47rem;
   padding-bottom: 100px;
-  background: url('https://www.amsterdam-dance-event.nl/uploads/images/events/_1200x630_crop_center-center_none/DaveClarkePresents.jpg');
+  background: url('@/assets/img/hero-img.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -616,7 +616,7 @@ footer p {
   width: 100%;
   height: 47rem;
   padding-bottom: 100px;
-  background: url('https://blog.beatworx.in/wp-content/uploads/2021/08/IMG_7373-scaled.jpg');
+  background: url('@/assets/img/hero-img-pQ.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -630,7 +630,7 @@ footer p {
   width: 100%;
   height: 47rem;
   padding-bottom: 100px;
-  background: url('https://www.6amgroup.com/wp-content/uploads/2020/02/Setaoc-Mass-2-scaled.jpg');
+  background: url('@/assets/img/hero-img-setoac.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -645,7 +645,7 @@ footer p {
   width: 100%;
   height: 47rem;
   padding-bottom: 100px;
-  background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t1.6435-9/43612904_1913313368748494_2194121014240083968_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=tTmsl6X17GoAX89VUgB&_nc_ht=scontent-cpt1-1.xx&oh=00_AT_JNHpdMEz_yfFJDu1_cyPs2aAcuOK3exvXVB4Axh77NQ&oe=635603A4');
+  background: url('@/assets/img/hero-img-vil.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -706,7 +706,7 @@ footer p {
   width: 100%;
   height: 42rem;
   padding-bottom: 100px;
-  background: url('https://blog.beatworx.in/wp-content/uploads/2021/08/IMG_7373-scaled.jpg');
+  background: url('@/assets/img/hero-img-pQ.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -729,7 +729,7 @@ footer p {
   width: 100%;
   height: 42rem;
   padding-bottom: 100px;
-  background: url('https://www.elitemm.co.uk/wp-content/uploads/2021/11/Copy-of-DSC05894-scaled.jpg');
+  background: url('@/assets/img/hero-img-4.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -754,7 +754,7 @@ footer p {
   width: 100%;
   height: 42rem;
   padding-bottom: 100px;
-  background: url('https://static.ra.co/images/profiles/square/vil-pt.jpg?dateUpdated=1519430400000');
+  background: url('@/assets/img/hero-img-5.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -773,7 +773,7 @@ footer p {
   background-position: bottom;
   background-position:  50% 0%;
 }
-.hero-img-6 {
+/* .hero-img-6 {
   width: 100%;
   height: 40rem;
   padding-bottom: 100px;
@@ -784,15 +784,13 @@ footer p {
   background-position: top;
   margin-bottom: 1em;
   transition: .3s ease;
-  /* border-radius: 10px; */
 }
 .hero-img-6:hover {
-  /* background: url('https://weareblacksmith.co/assets/images/work/guinness-pack/guinness-8.JPG'); */
   transition: .3s ease;
   filter: grayscale(100%);
-}
-.hero-img-7 {
-  width: 100%;
+} */
+ /* .hero-img-7 {
+ width: 100%;
   height: 40rem;
   padding-bottom: 100px;
   background: url('https://weareblacksmith.co/assets/images/work/sole-dxb/soledxb-3.webp');
@@ -802,13 +800,13 @@ footer p {
   background-position: center;
   margin-bottom: 1em;
   transition: .3s ease;
-  /* border-radius: 10px; */
-}
-.hero-img-7:hover {
+ 
+} */
+/* .hero-img-7:hover {
   background: url('https://weareblacksmith.co/assets/images/work/guinness-pack/guinness-8.JPG');
   transition: .3s ease;
   filter: grayscale(100%);
-}
+} */
 
 
 .main-2h {
@@ -849,7 +847,7 @@ footer p {
 }
 
 .main-img {
- background: url('https://media.watchthedj.com/thumbnails/6729-b.jpg');
+ background: url('@/assets/img/6729-b.webp');
  width: 55vw;
  height: 32rem;
  margin-right: 20px;
@@ -860,7 +858,7 @@ footer p {
 }
 
 .main-img-2 {
-  background: url('https://xlr8r.com/wp-content/uploads/2019/06/dvs1_groove-cover4_credit-salar-kheradpejouh.jpg');
+  background: url('@/assets/img/main-img-2.webp');
   width: 55vw;
   height: 32rem;
   margin-right: 20px;
@@ -882,7 +880,7 @@ footer p {
  }
 
  .main-img-4 {
-  background: url('https://www.adam-audio.com/blog/wp-content/uploads/resized/2021/12/adam-audio-blog-hoer-berlin-a7x-dj-deck-800x0-c-default.jpg');
+  background: url('@/assets/img/main-img-4.webp');
   width: 55vw;
   height: 32rem;
   margin-right: 20px;
@@ -915,7 +913,7 @@ footer p {
   width: 100%;
   height: 30rem;
   padding-bottom: 100px;
-  background: url('https://muno.pl/wp-content/uploads/2022/09/Quelza-1.jpeg');
+  background: url('@/assets/img/tab-img-2.webp');
   background-repeat: no-repeat;
   background-size: contain;
   background-attachment: fixed;
