@@ -1,6 +1,6 @@
 <template>
 <nav>
-<button name="menu">
+<button name="menu" alt="menu-button">
     <span class="span1"></span>
     <span class="span1"></span>
     <span class="span1"></span>
