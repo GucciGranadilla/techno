@@ -1051,7 +1051,7 @@ footer p {
 .marq-container .dj-cont-1-img3 {
   width: 96vw;
   height: 35vw;
-  background: url('https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/300219866_490109409786551_1017761475015358096_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=3Z1IV2UpUb4AX-BJ2HD&_nc_ht=scontent-cpt1-1.xx&oh=00_AT-DhphKnsk6hwgIQFe_jIBtlJ2JF5YnTRuVFaDTVMYnZg&oe=631AE162');
+  background: url('@/assets/img/.dj-cont-1-img3.webp');
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 12vw;
@@ -1083,7 +1083,7 @@ footer p {
   flex-shrink: 0;
   margin: 0 20px 0 0;
   position: relative;
-  background: url('https://geo-media.beatport.com/image_size/590x404/ee6a3d25-1081-43a7-914b-a18302c2d135.jpg');
+  background: url('@/assets/img/.dj-cont-1-img3.webp');
   background-repeat: no-repeat;
   height: 500px!important;
   display: flex;
@@ -1152,7 +1152,7 @@ footer p {
   min-width: 100vw;
   min-height: 100vh;
   /* background-color: #000; */
-  background-image: url(https://cdn.pixabay.com/photo/2017/07/04/13/37/blue-wings-2471094__340.png);
+  background-image: url('@/assets/img/Wings.webp');
   background-size: 450px;
   background-position: center;
   background-repeat: no-repeat;
