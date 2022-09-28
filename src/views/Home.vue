@@ -94,7 +94,7 @@ We choose to go to the moon.</p>
   
   </script>
 
-  <script>
+  <script setup>
 import { defineComponent, ref } from "vue";
 
 export default defineComponent({
