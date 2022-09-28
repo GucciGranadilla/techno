@@ -17,22 +17,24 @@
     <div  class="menu-radio"><div class="circle"></div><router-link :to="{name: 'live'}">Live</router-link></div>
 </div>
 </nav>
-<main class="page">
+
+<router-view v-slot="{ Component, route }">
 <Suspense>
 <template #default>
-<router-view v-slot="{ Component, route }">
+    <main class="page">
     <transition :enter-active-class="route.meta.enterClass"
                 :leave-active-class="route.meta.leaveClass"
                 name="fade" mode="out-in">
         <component :is="Component" />
     </transition>
-</router-view>
+    </main>
 </template>
 <template #fallback>
     <div class="fallback">LOADING..</div>
 </template>
 </Suspense>
-</main>
+</router-view>
+
 <footer>
     <div>
     <router-link :to="{name: 'home'}">Home</router-link>
