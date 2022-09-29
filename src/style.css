@@ -1939,7 +1939,7 @@ footer p {
 
 
 .sam-player {
-  margin: 0 2vw;
+  margin: 0 2vw !important;
 }
 
 /* .create-station-link, .mdi-home, .mdi-information {
