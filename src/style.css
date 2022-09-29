@@ -1942,6 +1942,11 @@ footer p {
   margin: 0 2vw;
 }
 
+.create-station-link, .mdi-home, .mdi-information {
+  display: none;
+  
+}
+
 
 
 
