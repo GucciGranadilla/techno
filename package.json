@@ -3,36 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "theme_color": "#f69435",
-  "background_color": "#ffffff",
-  "display": "fullscreen",
-  "scope": "/",
-  "start_url": "/",
-  "app_name": "Apollo 11",
-  "short_name": "Apollo 11",
-  "description": "techno radio made by kev :P",
-  "icons": [
-      {
-          "src": "@/assets/img/Wings.webp",
-          "sizes": "192x",
-          "type": "image/webp"
-      },
-      {
-          "src": "@/assets/img/Wings.webp",
-          "sizes": "256x",
-          "type": "image/webp"
-      },
-      {
-          "src": "@/assets/img/Wings.webp",
-          "sizes": "384x",
-          "type": "image/webp"
-      },
-      {
-          "src": "@/assets/img/Wings.webp",
-          "sizes": "512x",
-          "type": "image/webp"
-      }
-  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
