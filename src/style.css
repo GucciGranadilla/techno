@@ -1938,15 +1938,14 @@ footer p {
 } */
 
 
-.sam-player {
-  width: 96vw;
-  margin: 0 2vw !important;
+.live-wrp{
+  padding: 0 2vw !important;
 }
 
-/* .create-station-link, .mdi-home, .mdi-information {
+.create-station-link a {
   display: none;
   
-} */
+}
 
 
 
