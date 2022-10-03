@@ -847,7 +847,7 @@ footer p {
 }
 
 .main-img {
- background: url('@/assets/img/6729-b.webp');
+ background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/6729-b.webp');
  width: 55vw;
  height: 32rem;
  margin-right: 20px;
@@ -858,7 +858,7 @@ footer p {
 }
 
 .main-img-2 {
-  background: url('@/assets/img/main-img-2.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/main-img-2.webp');
   width: 55vw;
   height: 32rem;
   margin-right: 20px;
@@ -869,7 +869,7 @@ footer p {
  }
 
  .main-img-3 {
-  background: url('@/assets/img/main-img-3.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/main-img-3.webp');
   width: 55vw;
   height: 32rem;
   margin-right: 20px;
@@ -880,7 +880,7 @@ footer p {
  }
 
  .main-img-4 {
-  background: url('@/assets/img/main-img-4.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/main-img-4.webp');
   width: 55vw;
   height: 32rem;
   margin-right: 20px;
@@ -900,7 +900,7 @@ footer p {
   width: 100%;
   height: 60rem;
   padding-bottom: 100px;
-  background: url('@/assets/img/tab-img.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/tab-img.webp');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -913,7 +913,7 @@ footer p {
   width: 100%;
   height: 30rem;
   padding-bottom: 100px;
-  background: url('@/assets/img/tab-img-2.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/tab-img-2.webp');
   background-repeat: no-repeat;
   background-size: contain;
   background-attachment: fixed;
@@ -1051,7 +1051,7 @@ footer p {
 .marq-container .dj-cont-1-img3 {
   width: 96vw;
   height: 35vw;
-  background: url('@/assets/img/dj-cont-1-img3.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/dj-cont-1-img3.webp');
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 12vw;
@@ -1083,7 +1083,7 @@ footer p {
   flex-shrink: 0;
   margin: 0 20px 0 0;
   position: relative;
-  background: url('@/assets/img/dj-cont-1-img3.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/dj-cont-1-img3.webp');
   background-repeat: no-repeat;
   height: 500px!important;
   display: flex;
@@ -1097,7 +1097,7 @@ footer p {
   flex-shrink: 0;
   margin: 0 20px 0 0;
   position: relative;
-  background: url('@/assets/img/main-img-2.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/main-img-2.webp');
   background-repeat: no-repeat;
   height: 500px!important;
   display: flex;
@@ -1111,7 +1111,7 @@ footer p {
   flex-shrink: 0;
   margin: 0 20px 0 0;
   position: relative;
-  background: url('@/assets/img/main-img-4.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/main-img-4.webp');
   background-repeat: no-repeat;
   height: 500px!important;
   display: flex;
@@ -1125,7 +1125,7 @@ footer p {
   flex-shrink: 0;
   margin: 0 20px 0 0;
   position: relative;
-  background: url('@/assets/img/hero-img.webp');
+  background: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/hero-img.webp');
   background-repeat: no-repeat;
   height: 500px!important;
   display: flex;
@@ -1152,7 +1152,7 @@ footer p {
   min-width: 100vw;
   min-height: 100vh;
   /* background-color: #000; */
-  background-image: url('@/assets/img/Wings.webp');
+  background-image: url('https://guccigranadillatechno.s3.eu-west-2.amazonaws.com/Wings.webp');
   background-size: 450px;
   background-position: center;
   background-repeat: no-repeat;
